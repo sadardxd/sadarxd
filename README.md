@@ -1,3 +1,4 @@
+#mbasic,freefb,m.Facebook start with vpn
 🥀😻WELCOME TO MY PROFILE🥰
 
 
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://github.com/Shakibur-Cyber-King/)
+![Visitor Count](https://github.com/sadardxd/)
 
 - ![Profile views](https://gpvc.arturio.dev/Shakibur-cyber-king)
 - [![GitHub followers](https://img.shields.io/github/followers/Shakibur-cyber-king.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Shakibur-cyber-king?tab=followers)
@@ -69,9 +70,9 @@ Here are some ideas to get you started:
  
  rm -rf FILE-HACK
 
- git clone https://github.com/Shakibur-Cyber-King/FILE-HACK
+ git clone https://github.com/sadardxd/sadarxd
 
- cd FILE-HACK
+ cd sadarxd
 
  python Shakib.py
 ```
